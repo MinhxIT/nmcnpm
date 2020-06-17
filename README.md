@@ -1,6 +1,7 @@
 # nmcnpm
 # sql query 
-```use NMCNPM
+```
+use NMCNPM
 go
 create proc sp_getHDBH
 as
@@ -42,7 +43,8 @@ set MaHD = @MaHD,
 MaMon = @MaMon,
 Soluong = @Soluong
 where MaHD = @MaHD
-go```
+go
+```
 
 
 
